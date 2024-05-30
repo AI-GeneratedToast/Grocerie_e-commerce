@@ -1,0 +1,6 @@
+DELETE http://localhost:9000/categories/bulk-delete HTTP/1.1
+content-type: application/json
+
+[
+    "65beb701a2cf26297846911b"
+]

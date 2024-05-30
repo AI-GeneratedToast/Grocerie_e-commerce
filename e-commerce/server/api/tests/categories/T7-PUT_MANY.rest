@@ -1,0 +1,15 @@
+PUT http://localhost:9000/categories/bulk-update HTTP/1.1
+content-type: application/json
+
+[
+    {
+        "id": "65be6fe1d48cc106188e5856",
+        "code": "test1",
+        "designation": "TELECOM987"
+    },
+    {
+        "id": "65be70a0d48cc106188e585a",
+        "code": "test2",
+        "designation": "TELECOM123"
+    }
+]

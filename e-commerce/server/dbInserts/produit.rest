@@ -1,0 +1,122 @@
+[
+  {
+    "code": "001",
+    "libelle": "Apple",
+    "prix": 1.99,
+    "categorie": "6643cfeaebc2f5af9a96c247" 
+  },
+  {
+    "code": "002",
+    "libelle": "Banana",
+    "prix": 0.99,
+    "categorie": "6643cfeaebc2f5af9a96c247" 
+  },
+  {
+    "code": "003",
+    "libelle": "Orange",
+    "prix": 1.49,
+    "categorie": "6643cfeaebc2f5af9a96c247" 
+  },
+  {
+    "code": "004",
+    "libelle": "Carrot",
+    "prix": 0.79,
+    "categorie": "6643cfeaebc2f5af9a96c247" 
+  },
+  {
+    "code": "005",
+    "libelle": "Lettuce",
+    "prix": 0.89,
+    "categorie": "6643cfeaebc2f5af9a96c247" 
+  },
+  {
+    "code": "006",
+    "libelle": "Milk",
+    "prix": 2.49,
+    "categorie": "6643cfeaebc2f5af9a96c248" 
+  },
+  {
+    "code": "007",
+    "libelle": "Eggs",
+    "prix": 3.99,
+    "categorie": "6643cfeaebc2f5af9a96c248" 
+  },
+  {
+    "code": "008",
+    "libelle": "Yogurt",
+    "prix": 1.29,
+    "categorie": "6643cfeaebc2f5af9a96c248" 
+  },
+  {
+    "code": "009",
+    "libelle": "Cheese",
+    "prix": 4.99,
+    "categorie": "6643cfeaebc2f5af9a96c248" 
+  },
+  {
+    "code": "010",
+    "libelle": "Butter",
+    "prix": 2.99,
+    "categorie": "6643cfeaebc2f5af9a96c248" 
+  },
+  {
+    "code": "011",
+    "libelle": "Spaghetti",
+    "prix": 1.79,
+    "categorie": "6643cfeaebc2f5af9a96c249" 
+  },
+  {
+    "code": "012",
+    "libelle": "Rice",
+    "prix": 2.29,
+    "categorie": "6643cfeaebc2f5af9a96c249" 
+  },
+  {
+    "code": "013",
+    "libelle": "Bread",
+    "prix": 1.99,
+    "categorie": "6643cfeaebc2f5af9a96c249" 
+  },
+  {
+    "code": "014",
+    "libelle": "Tortilla",
+    "prix": 1.49,
+    "categorie": "6643cfeaebc2f5af9a96c249" 
+  },
+  {
+    "code": "015",
+    "libelle": "Quinoa",
+    "prix": 3.99,
+    "categorie": "6643cfeaebc2f5af9a96c249" 
+  },
+  {
+    "code": "016",
+    "libelle": "Potato Chips",
+    "prix": 1.29,
+    "categorie": "6643cfeaebc2f5af9a96c24a" 
+  },
+  {
+    "code": "017",
+    "libelle": "Chocolate Bar",
+    "prix": 0.99,
+    "categorie": "6643cfeaebc2f5af9a96c24a" 
+  },
+  {
+    "code": "018",
+    "libelle": "Candy",
+    "prix": 1.49,
+    "categorie": "6643cfeaebc2f5af9a96c24a" 
+  },
+  {
+    "code": "019",
+    "libelle": "Cookies",
+    "prix": 2.99,
+    "categorie": "6643cfeaebc2f5af9a96c24a" 
+  },
+  {
+    "code": "020",
+    "libelle": "Popcorn",
+    "prix": 0.79,
+    "categorie": "6643cfeaebc2f5af9a96c24a" 
+  }
+]

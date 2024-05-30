@@ -1,0 +1,2 @@
+GET http://localhost:9000/categorie/search?designation=telecom
+content-type: application/json

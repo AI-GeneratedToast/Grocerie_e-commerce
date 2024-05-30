@@ -1,0 +1,28 @@
+POST  http://localhost:9000/produits HTTP/1.1
+content-type: application/json
+
+[
+    {
+        "code":"ABC",
+        "libelle": "Iphone 15",
+        "prix": 3000,
+        "categorie":
+            "65c89aa178c86930c8f05188"
+    },
+    {
+        "code":"DEF",
+        "libelle": "Samsung Galaxy S5",
+        "prix": 100,
+        "categorie": [
+            "65c89aa178c86930c8f05189"
+        ]
+    },
+    {
+        "code":"XYZ",
+        "libelle": "Nokia 3310",
+        "prix": 50000,
+        "categorie": [
+            "65c89aa178c86930c8f0518a"
+        ]
+    }
+]

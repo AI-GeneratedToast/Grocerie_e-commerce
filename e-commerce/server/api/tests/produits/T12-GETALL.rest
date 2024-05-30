@@ -1,0 +1,1 @@
+GET http://localhost:9000/produits?page=1&limit=2
